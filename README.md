@@ -239,4 +239,7 @@ Name: Aarav || Height: 165 || Weight: 70 || Average: 117
 Name: Abir  || Height: 160 || Weight: 75 || Average: 117
 Name: Isha  || Height: 172 || Weight: 65 || Average: 118
 
-![img alt]
+![img alt](https://github.com/vijay1234nkanade-boop/merge-and-selection-sort/blob/main/WhatsApp%20Image%202025-09-22%20at%2019.02.19_6e041731.jpg?raw=true)
+
+![img alt](https://github.com/vijay1234nkanade-boop/merge-and-selection-sort/blob/main/WhatsApp%20Image%202025-09-22%20at%2019.02.19_94727249.jpg?raw=true)
+![img alt](https://github.com/vijay1234nkanade-boop/merge-and-selection-sort/blob/main/WhatsApp%20Image%202025-09-22%20at%2019.02.20_3404c907.jpg?raw=true)
